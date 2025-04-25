@@ -30,3 +30,14 @@ CLICK vào file chọn open rồi chọn file cuối cùng chọn file " sv_tnut
 ![image](https://github.com/user-attachments/assets/0f1479e2-b171-4174-be9c-23f44580a4a5)
 # 3. nhập sql để tìm xem có những sv nào trùng hoàn toàn ngày/tháng/năm với em?
 ![image](https://github.com/user-attachments/assets/b2f412a9-6abc-4948-bfa0-4893885c65f3)
+# 4. nhập sql để tìm xem có những sv nào trùng ngày và tháng sinh với em?
+![image](https://github.com/user-attachments/assets/bdc511ad-d6de-4fb9-b1b5-3f918c341190)
+# 5. nhập sql để tìm xem có những sv nào trùng tháng và năm sinh với em?
+![image](https://github.com/user-attachments/assets/9ec97cdb-5aa0-4da6-bf7c-ac87c5a07957)
+# 6. nhập sql để tìm xem có những sv nào trùng tên với em?
+![image](https://github.com/user-attachments/assets/81a205d5-b076-4aa4-a72a-db7db2f15027)
+# 7. nhập sql để tìm xem có những sv nào trùng họ và tên đệm với em.
+![image](https://github.com/user-attachments/assets/767ec7ae-ff2d-4fff-928a-40e4a28ded05)
+# 8. nhập sql để tìm xem có những sv nào có sđt sai khác chỉ 1 số so với sđt của em.
+![image](https://github.com/user-attachments/assets/8a8ed9f8-05e7-402b-b045-db54b254ce5e)
+Không có sđt nào sai khác chỉ 1 số so với sđt của em hết

@@ -17,7 +17,7 @@ Cho file sv_tnut.sql (1.6MB)
 DEADLINE: 23H59:59 NGÀY 25/4/2025
 
 Ghi chú: Giải thích tại sao lại có SQL như vậy.
-                     Bài làm 
+ #                    Bài làm 
 Tạo database mới tên là BT6
 ![image](https://github.com/user-attachments/assets/0111ab43-5375-4061-ad98-800e4da181c8)
 # 1. Hãy nêu các bước để import được dữ liệu trong sv_tnut.sql vào sql server của em
@@ -41,3 +41,15 @@ CLICK vào file chọn open rồi chọn file cuối cùng chọn file " sv_tnut
 # 8. nhập sql để tìm xem có những sv nào có sđt sai khác chỉ 1 số so với sđt của em.
 ![image](https://github.com/user-attachments/assets/8a8ed9f8-05e7-402b-b045-db54b254ce5e)
 Không có sđt nào sai khác chỉ 1 số so với sđt của em hết
+# 9. BẢNG SV CÓ HƠN 9000 ROWS, HÃY LIỆT KÊ TẤT CẢ CÁC SV NGÀNH KMT, SẮP XẾP THEO TÊN VÀ HỌ ĐỆM, KIỂU TIẾNG  VIỆT, GIẢI THÍCH.
+![image](https://github.com/user-attachments/assets/32676f9b-fd2d-4cc3-9c1b-bebd8d43cc1c)
+- lop LIKE N'%KTP%' or  lop LIKE N'%KMT%' : Tìm tất cả sinh viên thuộc ngành KMT
++ Ở câu lệnh này em thêm lop Like '%KTP%'vào Where vì lớp KMT và KTP là cùng ngành với nhau chỉ khác tên thôi
+- ORDER BY ten, hodem : Sắp xếp các tên trước theo vần âm tiết đầu của bảng chữ cái( VD A=>B ), sau đó mới theo họ và tên đệm.
+- COLLATE Vietnamese_CI_AS: Đây là kiểu sắp xếp tiếng Việt có phân biệt dấu và chữ hoa/thường hợp lý VD : an => An
+# 
+![image](https://github.com/user-attachments/assets/f72de6e0-5f81-408c-b964-d9e2e26c9895)
+Sau 1 lúc xem xét:
+1. Em thấy có 1 số bạn là nam nhưng có tên giống nữ 
+2. Vì không có trường giới tính nên sẽ khó nhận biết được các tên trên có phải là nữ hay không
+

@@ -28,3 +28,5 @@ CLICK vào file chọn open rồi chọn file cuối cùng chọn file " sv_tnut
 - chọn Execute
 ![image](https://github.com/user-attachments/assets/71b0d88f-c87d-45b7-956e-fc562d99fd5e)
 ![image](https://github.com/user-attachments/assets/0f1479e2-b171-4174-be9c-23f44580a4a5)
+# 3. nhập sql để tìm xem có những sv nào trùng hoàn toàn ngày/tháng/năm với em?
+![image](https://github.com/user-attachments/assets/b2f412a9-6abc-4948-bfa0-4893885c65f3)

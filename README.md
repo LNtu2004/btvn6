@@ -24,3 +24,6 @@ Tạo database mới tên là BT6
 CLICK vào file chọn open rồi chọn file cuối cùng chọn file " sv_tnut " mà e đã tải về
 ![image](https://github.com/user-attachments/assets/d4516c08-ad81-4879-8b5c-5e70eab7622b)
 ![image](https://github.com/user-attachments/assets/9f36a70a-d763-4754-8cd1-be7d15a1a66c)
+# 2. dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên (của sv đang làm bài tập này)
+- chọn Execute
+![image](https://github.com/user-attachments/assets/71b0d88f-c87d-45b7-956e-fc562d99fd5e)

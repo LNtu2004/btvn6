@@ -27,3 +27,4 @@ CLICK vào file chọn open rồi chọn file cuối cùng chọn file " sv_tnut
 # 2. dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên (của sv đang làm bài tập này)
 - chọn Execute
 ![image](https://github.com/user-attachments/assets/71b0d88f-c87d-45b7-956e-fc562d99fd5e)
+![image](https://github.com/user-attachments/assets/0f1479e2-b171-4174-be9c-23f44580a4a5)

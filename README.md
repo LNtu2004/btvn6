@@ -17,3 +17,10 @@ Cho file sv_tnut.sql (1.6MB)
 DEADLINE: 23H59:59 NGÀY 25/4/2025
 
 Ghi chú: Giải thích tại sao lại có SQL như vậy.
+                     Bài làm 
+Tạo database mới tên là BT6
+![image](https://github.com/user-attachments/assets/0111ab43-5375-4061-ad98-800e4da181c8)
+# 1. Hãy nêu các bước để import được dữ liệu trong sv_tnut.sql vào sql server của em
+CLICK vào file chọn open rồi chọn file cuối cùng chọn file " sv_tnut " mà e đã tải về
+![image](https://github.com/user-attachments/assets/d4516c08-ad81-4879-8b5c-5e70eab7622b)
+![image](https://github.com/user-attachments/assets/9f36a70a-d763-4754-8cd1-be7d15a1a66c)

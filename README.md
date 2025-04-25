@@ -52,5 +52,5 @@ Không có sđt nào sai khác chỉ 1 số so với sđt của em hết
 ![image](https://github.com/user-attachments/assets/f72de6e0-5f81-408c-b964-d9e2e26c9895)
 Sau 1 lúc xem xét:
 1. Em thấy có 1 số bạn là nam nhưng có tên giống nữ 
-2. Vì không có trường giới tính nên sẽ khó nhận biết được các tên trên có phải là nữ hay không
+2. Vì không có trường giới tính nên sẽ khó nhận biết chính xác được các tên trên có phải là nữ hay không
 
